@@ -32,4 +32,3 @@ No Activity tracked this Week
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ngovanthuan07&layout=compact&theme=material-palenight&langs_count=10" />
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
