@@ -1,7 +1,7 @@
 <a href="https://www.facebook.com/ngovanthuan07/">
   <img align="left" width="20px" alt="Tran Huu Toan | Facebook" src="https://img.icons8.com/doodle/48/000000/facebook-new.png"/>
 </a>
-<a href="https://twitter.com/MeizuToan">
+<a href="https://www.facebook.com/ngovanthuan07/">
   <img align="left" width="21px" alt="Tran Huu Toan | Twitter" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
